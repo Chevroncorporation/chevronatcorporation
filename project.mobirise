@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Chevron corporation",
-    "currentPage": "page2.html",
+    "currentPage": "Entrevista-online.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "4.2.3",
     "theme": {
       "name": "mobirise4",
@@ -776,7 +776,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1442,10 +1442,10 @@
         }
       ]
     },
-    "page2.html": {
+    "Entrevista-online.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "Page 2",
+        "title": "Entrevista-online",
         "order": 1
       },
       "components": [
